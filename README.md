@@ -14,3 +14,8 @@
 </div>
 
 **Konfique** is a package configuration system developed by Cayla for Ballsdex versions that predate v3, allowing package developers to implmement simple package configuration.
+
+### Contributors
+
+- `@cayla.py` - Package developer
+- `@hersh492` - Logo designer
